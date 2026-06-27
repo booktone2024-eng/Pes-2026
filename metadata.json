@@ -1,0 +1,6 @@
+{
+  "name": "PES 2026 Kurdistan Cup",
+  "description": "A dark-themed PES 2026 tournament manager with the colors and spirit of the Kurdistan flag, supporting home-and-away draw setups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
